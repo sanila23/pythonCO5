@@ -1,0 +1,7 @@
+"Name, Branch, Contact Number, Email"
+"Lena, CSE, 8794561235, lena@gmail.com"
+"San, CS, 9874563212, san@gmail.com"
+"Ren, EEE, 8794561238, ren@gmail.com"
+"Sean, CSE, 8745699123, sean@gmail.com"
+"Xian, CSE, 8794562312, xian@gmail.com"
+"Ann, CSE, 9456712389, ann@gmail.com"
